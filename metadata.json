@@ -1,0 +1,6 @@
+{
+  "name": "CyberTerminal",
+  "description": "Red hacker terminal interface with passcode lock (9955), live streaming command runner, telemetry analytics chart, interactive world map cyber tracker, and real-time system logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

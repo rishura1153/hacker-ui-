@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Hexagonal cyber frame -->
+    <path
+        android:pathData="M54,20 L84,36 L84,72 L54,88 L24,72 L24,36 Z"
+        android:strokeColor="#FF003C"
+        android:strokeWidth="3.5"
+        android:fillColor="#22FF003C" />
+    <!-- HUD Target corners -->
+    <path
+        android:pathData="M32,42 L32,32 L42,32 M76,42 L76,32 L66,32 M32,66 L32,76 L42,76 M76,66 L76,76 L66,76"
+        android:strokeColor="#FF4D6D"
+        android:strokeWidth="2.5" />
+    <!-- Terminal Command prompt: > -->
+    <path
+        android:pathData="M38,46 L48,54 L38,62"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Terminal Cursor _ -->
+    <path
+        android:pathData="M54,62 L70,62"
+        android:strokeColor="#FF003C"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="square" />
+    <!-- Center top status dot -->
+    <path
+        android:pathData="M54,26 L56,28 L54,30 L52,28 Z"
+        android:fillColor="#FF2A4D" />
+</vector>
